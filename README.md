@@ -4,10 +4,10 @@
 
 # Features
 
-1. - Lightweight & Fast Verification
-2. - No need for proxy configurations.
-3. - Handles verification without captcha problems.
-4. - Ensures precise verification.
+- Lightweight & Fast Verification
+- No need for proxy configurations.
+- Handles verification without captcha problems.
+- Ensures precise verification.
 
 # Contact
 
