@@ -9,10 +9,12 @@
 - Handles verification without captcha problems.
 - Ensures precise verification.
 
-# Contact
+## 🤝 Get in Touch
 
-For availability:
-Telegram : @thepythoncode97
+if you want to purchase,
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 
 ## Note:
