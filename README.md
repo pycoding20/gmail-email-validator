@@ -5,7 +5,7 @@
 
 # Features
 
-- Lightweight & Fast Verification
+- Lightweight & Fast Verification.
 - No need for proxy configurations.
 - Handles verification without captcha problems.
 - Ensures precise verification.
